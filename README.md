@@ -29,7 +29,7 @@
   </tr>
 </table>
 <hr>
-<h1>Sobre a Aplicação(DEV):</h1>
+<h1>Sobre a Aplicação:</h1>
 <p align="justify">A aplicação não possui um leyout como um software de computador concluito. Ou seja, a aplicação realiza suas funcionalidades por meio do prompt de comando(cmd). Tal possui uma telas simples com as opções a serem escolhidas:</p>
 <h1 align="center">
   <img alt="telaPrincipal" title="telaPrincipal" src="./imgs/inicio.png" />
@@ -55,5 +55,6 @@
     </h1>
   </li>
 </ol>
-
-
+<hr>
+<h1>Sobre a Aplicação(DEV):</h1>
+<p align="justify">A presente aplicação foi totalmente desenvolvida em C com funções simples para realizar toda a lógica, como por exemplo: IF ELSE e DO WHILE.</p>
