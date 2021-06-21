@@ -30,7 +30,30 @@
 </table>
 <hr>
 <h1>Sobre a Aplicação(DEV):</h1>
+<p align="justify">A aplicação não possui um leyout como um software de computador concluito. Ou seja, a aplicação realiza suas funcionalidades por meio do prompt de comando(cmd). Tal possui uma telas simples com as opções a serem escolhidas:</p>
 <h1 align="center">
   <img alt="telaPrincipal" title="telaPrincipal" src="./imgs/inicio.png" />
 </h1>
-<p align="justify">Uma boa parte da aplicação foi desenvolvida na linguagem de programação Python. Ou seja, toda sua estrutura de análise de projetos, leitura de arquivos em PDF e lançamento de resultados. Porém, para que fosse possível publica-la na web, recorremos a dois FrameWorks bastante utilizados pela comunidade dev: <a href="https://flask.palletsprojects.com/en/2.0.x/">Flask</a> e <a href="https://getbootstrap.com/">Bootstrap</a>. Alem disso, o JavaScript foi utilizado para algumas funcionalidades, como por exemplo: sistema de alerta e gerador de um comprovante, para que seja possível ser imprimido após a análise. Além disso, Utilizamos o MySQL para pudessemos desenvolver um banco de dados que armazenase dados de usuários restritos na aplicação</p>
+<p align="justify">Como também possui as subfunções que podem ser realizadas após escolher as opções primárias. Como por exemplo:</p>
+<ol>
+  <li>
+    <p align="justify">Ver saldo da conta:</p>
+    <h1 align="center">
+     <img alt="telaPrincipal" title="telaPrincipal" src="./imgs/saldo.png" />
+    </h1>
+  </li>
+   <li>
+    <p align="justify">Realizar deposito:</p>
+    <h1 align="center">
+     <img alt="telaPrincipal" title="telaPrincipal" src="./imgs/deosito.png" />
+    </h1>
+  </li>
+  <li>
+    <p align="justify">Realizar saque:</p>
+    <h1 align="center">
+     <img alt="telaPrincipal" title="telaPrincipal" src="./imgs/saque.png" />
+    </h1>
+  </li>
+</ol>
+
+
