@@ -45,7 +45,7 @@
    <li>
     <p align="justify">Realizar deposito:</p>
     <h1 align="center">
-     <img alt="telaPrincipal" title="telaPrincipal" src="./imgs/deosito.png" />
+     <img alt="telaPrincipal" title="telaPrincipal" src="./imgs/deposito.png" />
     </h1>
   </li>
   <li>
